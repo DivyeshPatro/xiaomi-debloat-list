@@ -2,6 +2,9 @@
 If You Have any xiaomi smartphone  u can remove some inbuilt apps using ADB tool  to get smooth experience 
 First You have to enable Developer option in your smartphone
 Then you need a pc with ADB tool of xiaomi
+
+
+
 UPDATE 2020-05-09: Added SIM Toolkit description.
 UPDATE 2020-07-04 Added some apps, thanks to @thecrazyblack.
 UPDATE 2020-11-23 Updated list of apps, thanks to new comments by @toast254, @swiesmann, @MarcelloDM, @satnited.
